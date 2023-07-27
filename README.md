@@ -1,1 +1,1 @@
-123123
+<img src=data.png>
