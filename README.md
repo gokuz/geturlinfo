@@ -1,5 +1,5 @@
-批量扫描域名、url解析IP<br>
-功能：批量扫描文本中的URL，解析为IP，并把端口和协议存入csv。<br>
+批量扫描域名、url解析IP，并把端口和协议存入csv。<br>
+pip安装re,urllib,time,socket
 
 使用 python3<br>
 urls.txt 内容<br>
