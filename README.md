@@ -1,4 +1,6 @@
 批量扫描域名、url解析IP，并把端口和协议存入csv。<br>
+解析URL中的IP 端口 协议。<br>
+解析域名中的IP 端口 协议。<br>
 pip安装re,urllib,time,socket
 
 使用 python3<br>
